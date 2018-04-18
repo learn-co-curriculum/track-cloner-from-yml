@@ -6,3 +6,4 @@ languages:
 level: 1
 type:
   - contingency
+parent_template: https://github.com/learn-co-curriculum/hs-cli-stayfresh.git
