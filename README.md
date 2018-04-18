@@ -7,6 +7,3 @@ Test your command line skills with [Terminus](http://www.mprat.org/Terminus/), a
                         <p data-visibility='hidden'>
   KWK-L1 Stay Fresh
 </p>
-=======
-<p data-visibility='hidden'>KWK-L1 Stay Fresh</p>
->>>>>>> 854fce7a9aea533e141b31287221828f7bff3c06
