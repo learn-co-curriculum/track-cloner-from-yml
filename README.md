@@ -1,5 +1,3 @@
-
-
 ## Stay Fresh
 <img src="https://s3.amazonaws.com/after-school-assets/terminus" width="400px" align="right" hspace="10">
 
